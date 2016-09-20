@@ -61,6 +61,7 @@
 + common name，通用名称
 + compatibility，兼容性
 + comcurrency，并发
++ components，组件
 + concurrency mode，并发模式
 + conditional compilation，条件编译
 + conditional compilation statement，条件编译语句
