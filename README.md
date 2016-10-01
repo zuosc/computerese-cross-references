@@ -138,6 +138,7 @@
 
 + Geo-Replication，地域复制
 + Geo Redundant，地域冗余
++ generator,生成器 
 
 ## H ##
 
