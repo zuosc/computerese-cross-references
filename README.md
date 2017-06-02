@@ -6,7 +6,6 @@
 + active directory，活动目录
 + affinity，绑定
 + affinity group，地缘组
-+ agent，代理
 + agility，敏捷性
 + application pool，应用程序池
 + architecture decay，架构腐坏
@@ -40,7 +39,6 @@
 
 ## C ##
 
-+ Cache/Caching，缓存
 + call stack，调用堆栈
 + Central Processing Unit，中央处理器（CPU）
 + certificate，（数字）证书
